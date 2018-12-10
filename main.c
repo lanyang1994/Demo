@@ -14,6 +14,6 @@ void delay(void)
 
 void test(void)
 {
-	
+	int i = 0;
 	
 }
