@@ -11,3 +11,9 @@ void delay(void)
 	int i = 0;
 	
 }
+
+void test(void)
+{
+	
+	
+}
